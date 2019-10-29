@@ -1,24 +1,8 @@
-# README
+## my_first_raills_app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The goal of the <a href="https://www.theodinproject.com/courses/web-development-101/lessons/your-first-rails-application">Project: Your First Rails Application from Odin Project </a>is build a simple functional Rails application.
 
-Things you may want to cover:
+The full description can be found here: <a href="https://www.theodinproject.com/courses/web-development-101/lessons/your-first-rails-application">Project: Your First Rails Application from Odin Project </a>
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Author - click on the link below to see the author's github    
+Github: <a href="https://github.com/thsvr">Thaís Vieira Azevedo</a>
